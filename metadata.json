@@ -1,7 +1,7 @@
 {
   "name": "Cottage Nodes",
-  "website": "https://twitter.com/cottage_nodes",
-  "description": "Operating (solo-) nodes from under the Alps 🏔️🏡.",
+  "website": "https://cottagelabs.tech",
+  "description": "Operating nodes from under the Alps 🏔️🏡. We are a Community focused operator.",
   "logo": "https://raw.githubusercontent.com/cottage-nodes/eigenlayer-operator-node/main/cottage-logo-2.png",
   "twitter": "https://twitter.com/cottage_nodes"
 }
